@@ -6,7 +6,7 @@ import { Form } from "reactstrap";
 function App() {
   return (
     <div className="App">
-      <Navbar dark color="primary">
+      <Navbar dark color="success">
         <div className="container">
           <NavbarBrand href="/">Ristorante Con Fusion</NavbarBrand>
         </div>
